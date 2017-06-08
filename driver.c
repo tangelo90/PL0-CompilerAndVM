@@ -1,6 +1,3 @@
-// Driver for Parser COP 3402 Spring 17
-// Group: Thomas Angelo, Sean Rivaud, Clay Szlosek
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
