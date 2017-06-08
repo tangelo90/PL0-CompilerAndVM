@@ -1,0 +1,21 @@
+const g = 8, u = 4;
+var x, y, z;
+begin   
+
+z:=12; y := 15; x := 3; 
+
+if x < y then
+
+begin
+
+x := (x * y)/2;
+
+if y <> z then
+begin
+y:= y+z+6;
+x:=x-z;
+z:= g - x;
+end;
+end;
+x := u;
+end.
